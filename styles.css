@@ -10,6 +10,8 @@
 }
 
 p {
+  color: blue; 
+  background-color: yellow;
   display: block;
   width: 400px;
   margin: 50px auto;
